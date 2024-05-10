@@ -1,0 +1,6 @@
+C:\Users\sanct\OneDrive\Desktop\Azure Cloud Resume Project\backend\api\obj\Debug\net6.0\api.csproj.AssemblyReference.cache
+C:\Users\sanct\OneDrive\Desktop\Azure Cloud Resume Project\backend\api\obj\Debug\net6.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanct\OneDrive\Desktop\Azure Cloud Resume Project\backend\api\obj\Debug\net6.0\api.AssemblyInfoInputs.cache
+C:\Users\sanct\OneDrive\Desktop\Azure Cloud Resume Project\backend\api\obj\Debug\net6.0\api.AssemblyInfo.cs
+C:\Users\sanct\OneDrive\Desktop\Azure Cloud Resume Project\backend\api\obj\Debug\net6.0\api.csproj.CoreCompileInputs.cache
+C:\Users\sanct\OneDrive\Desktop\Azure Cloud Resume Project\backend\api\obj\Debug\net6.0\api.sourcelink.json
