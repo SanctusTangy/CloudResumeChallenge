@@ -57,6 +57,12 @@
    #about .contact-details { width: 50%; }
    #about .download { width: 50%; }
 
+   #about .Azure-pic {
+      width: 1500px;
+      height: 900px;
+      margin-left: 12px;
+   }
+
    /* Resume Section
    ------------------------------------------------------------------- */
    #resume h1 { font: 16px/24px 'opensans-bold', sans-serif; }
@@ -223,6 +229,12 @@
    }
    #about .main-col { padding-right: 30px; }
 
+   #about .Azure-pic { display: none; }
+   #about .download .button {
+      width: 100%;
+      text-align: center;
+      padding: 15px 20px;
+   }
 
    /* Resume Section
    --------------------------------------------------------------------- */
